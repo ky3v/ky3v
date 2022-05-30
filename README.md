@@ -25,6 +25,6 @@
 <a href="https://www.linkedin.com/in/yevin-kwon-877908212/"><img alt="LinkedIn" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg"></a>
 <a href="mailto:yev.kwon@gmail.com?subject=Hello%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ky3v)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky3v&layout=compact)](https://github.com/ky3v/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ky3vin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky3v&layout=compact)](https://github.com/ky3vin/github-readme-stats)
 </div>
