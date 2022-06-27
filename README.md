@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=89CFF0&height=175&section=header&text=To infinity and beyond 🚀&fontSize=42"/>
   <h2>Hi there, I'm Yevin👋</h2>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fky3v&count_bg=%23FCF55F&title_bg=%23555555&icon=&icon_color=%#FCF55F&title=hits&edge_flat=false"/></a></br>
-  <img src="https://t1.daumcdn.net/cfile/tistory/9931AF455BBDE5BC35" />
+  <!img src="https://t1.daumcdn.net/cfile/tistory/9931AF455BBDE5BC35" />
 
 
   <h3>📚 Tech Stacks 📚</h3>
